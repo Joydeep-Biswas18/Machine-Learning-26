@@ -1,0 +1,123 @@
+# ==============================
+
+# Python
+
+# ==============================
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# ==============================
+
+# Virtual Environments
+
+# ==============================
+
+venv/
+env/
+.venv/
+ml_env/
+movie_env/
+tf_1015/
+tf_qat/
+tf_215/
+
+# ==============================
+
+# Jupyter Notebook
+
+# ==============================
+
+.ipynb_checkpoints/
+
+# ==============================
+
+# Machine Learning Models
+
+# ==============================
+
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+*.keras
+*.pb
+*.pt
+*.pth
+*.onnx
+*.tflite
+
+# ==============================
+
+# Datasets
+
+# ==============================
+
+data/
+dataset/
+datasets/
+*.csv
+*.xlsx
+*.parquet
+*.zip
+
+# ==============================
+
+# TensorFlow / Keras
+
+# ==============================
+
+logs/
+checkpoints/
+saved_model/
+
+# ==============================
+
+# Environment Variables
+
+# ==============================
+
+.env
+.env.*
+!.env.example
+
+# ==============================
+
+# IDEs
+
+# ==============================
+
+.vscode/
+.idea/
+
+# ==============================
+
+# Temporary Files and Logs
+
+# ==============================
+
+*.log
+*.tmp
+temp/
+tmp/
+
+# ==============================
+
+# Operating System Files
+
+# ==============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+
+# Build Files
+
+# ==============================
+
+build/
+dist/
+*.egg-info/
